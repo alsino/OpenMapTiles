@@ -1,4 +1,4 @@
-# MapBox GL JS Offline with Custom Vector Tiles
+# MapLibre GL JS Offline with Custom Vector Tiles
 
 This is an example of hosting vector tiles with custom style and a local copy of MapLibre GL JS library on your own server.
 
