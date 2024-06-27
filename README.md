@@ -1,8 +1,9 @@
 # MapLibre GL JS Offline with Custom Vector Tiles
 
-This is an example of hosting vector tiles with custom style and a local copy of MapLibre GL JS library on your own server.
+This is an example of hosting vector tiles with custom style and a local copy of MapLibre GL JS library on your own server.The MBTiles were downloaded for the city of Dortmund from MapTiler:
 
-The mbTiles were downloaded for the city of Dortmund from MapTiler:
+## Demo
+https://alsino.github.io/OpenMapTiles/
 
 # Download ready-made vector tiles from MapTiler:
 
