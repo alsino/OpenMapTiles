@@ -16,8 +16,8 @@ https://github.com/klokantech/vector-tiles-sample?tab=readme-ov-file#host-the-ve
 
 # Turn tiles into folder structure:
 
-mb-util --image_format=pbf dortmund.mbtiles dortmund
-gzip -d -r -S .pbf \*
+mb-util --image_format=pbf dortmund.mbtiles dortmund  
+gzip -d -r -S .pbf \*  
 find . -type f -exec mv '{}' '{}'.pbf \;
 
 # Example code (how to use with folder structure):
